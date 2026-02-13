@@ -17,6 +17,17 @@
       },
       "source": "./plugins/aram-starter",
       "category": "development"
+    },
+    {
+      "name": "surge-toolkit",
+      "description": "Deploy static websites to Surge.sh with optional password protection",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aram Labs",
+        "email": "sen@aramlabs.ca"
+      },
+      "source": "./plugins/surge-toolkit",
+      "category": "deployment"
     }
   ]
 }

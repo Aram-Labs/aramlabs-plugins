@@ -1,0 +1,9 @@
+{
+  "name": "surge-toolkit",
+  "description": "Deploy static websites to Surge.sh with optional password protection. Includes CLI setup and guided deployment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aram Labs",
+    "email": "sen@aramlabs.ca"
+  }
+}
