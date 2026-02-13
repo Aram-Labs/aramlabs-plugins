@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "aramlabs-plugins",
+  "description": "Claude Code plugins for Aram Labs clients — design system, subdomain conventions, and tooling",
+  "owner": {
+    "name": "Aram Labs",
+    "email": "sen@aramlabs.ca"
+  },
+  "plugins": [
+    {
+      "name": "aram-starter",
+      "description": "Aram Labs design system conventions, subdomain patterns, and auth-gate usage",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aram Labs",
+        "email": "sen@aramlabs.ca"
+      },
+      "source": "./plugins/aram-starter",
+      "category": "development"
+    }
+  ]
+}

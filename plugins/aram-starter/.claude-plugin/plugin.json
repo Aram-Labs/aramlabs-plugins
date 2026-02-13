@@ -1,0 +1,9 @@
+{
+  "name": "aram-starter",
+  "description": "Aram Labs design system conventions, subdomain patterns, and auth-gate usage",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aram Labs",
+    "email": "sen@aramlabs.ca"
+  }
+}
