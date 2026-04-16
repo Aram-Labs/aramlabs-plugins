@@ -1,0 +1,6 @@
+{
+  "name": "excalidraw-diagram",
+  "description": "Generate Excalidraw diagrams (architecture, flows, concepts) with a render\u2192inspect\u2192fix validation loop.",
+  "version": "1.0.0",
+  "author": { "name": "Aram Labs", "email": "sen@aramlabs.ca" }
+}

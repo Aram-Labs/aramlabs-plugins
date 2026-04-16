@@ -18,6 +18,7 @@ Then browse available plugins in the `/plugin` Discover tab.
 |--------|-------------|----------|
 | [aram-starter](./plugins/aram-starter/) | Aram Labs design system conventions, subdomain patterns, and auth-gate usage | Development |
 | [surge-toolkit](./plugins/surge-toolkit/) | Deploy static websites to Surge.sh with optional password protection | Deployment |
+| [excalidraw-diagram](./plugins/excalidraw-diagram/) | Generate Excalidraw diagrams with render→inspect→fix validation loop | Development |
 
 ## For Aram Labs Team
 
